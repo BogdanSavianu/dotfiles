@@ -203,4 +203,3 @@ alt-shift-l = ['join-with right', 'mode main']
 if.app-name-regex-substring = 'finder'
 run = 'layout floating'
 
-If there is only one app open, can I make the margins bigger and keep them as they are for 2+ apps?
